@@ -1,6 +1,6 @@
 # hackme
 
-git clone https://github.com/antojoseph/hackme.git
+git clone https://github.com/antojoseph/hackme.git --recurse-submodules
 
 forge update
 
