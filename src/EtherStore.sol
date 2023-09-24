@@ -1,52 +1,129 @@
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.13;
+0x8e1a33bf9cdf6d49eddbe0b1f5580b2eedf76dd586c544db1545544e64efe71f
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:11
+0
+0x5d9299268ca98a3b65d78623d0d0d1d391b50ea403700cdb24d3bfe74f103920
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:11
+0.00006874999312500068
+0x924c8513029f2d41185037bfe8c175ce88a275a666e5d9db427749f8f06a7193
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:11
+0.00027499997250000273
+0xce32d7da7cf549e40397d99398678ecb28ea7c3e22a98b76a06d6d5970cd49dd
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:11
+0.0006187499381250061
+0x98fd0ad1115c451814a9dcbf70cea81d180622e9fbcde81d9f9ed69102b2a219
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:11
+0.001099999890000011
+0x3892709e8130a1b7fd8010054c9313db8b63add0f54cd6ae31eb8e5af0af41da
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:11
+0.001718749828125017
+0xbbd8932da8ae1a853985b4943cf684efc372194bb56b421d8edf5b8db5836d42
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:11
+0.0024749997525000244
+0xfa05c1ce9a47876046a0cc8cf422c7b63271d7a7e4947726083f8a561ffb8608
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.0033687496631250335
+0x2678788cb03d665075ed2c961bc636829f79881dd3682fa978cbb4c292674b20
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.11309373869062612
+0x90b0edccaf6b1b72c4f85c6dc0607f940f9aa2a42e9b2a85d40a04e59e457a7e
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.02227499777250022
+0x1203e2c2c47c4cafd0f485319f1aa33663d458c22c0ba8d0ea736fb6e51c2d47
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.41834370816562916
+0x0b89fa80bac4c5a5a783c0707f96cae0637546d7cbd50ec0437db0eb805c434d
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.024818747518125246
+0x90072a0697192bd44fb2e0b84bd998d09d9e7ecf400467dc06727e4b218ef68b
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.06187499381250061
+0x4bcb478b2124421b9c6257970a542ba086bc5c656af388fdaf111ff20df91ec0
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.06606874339312566
+0x4b9d81cd816f9137c7e1230c03a8ce77450a782842e6fcbe8ed5cfcf38129a4a
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.0703999929600007
+0xb9413cf0f9ee5c5a5bd43cf67dc120829212dc929a7f70398ba8ff401d31fbaa
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.07486874251312574
+0x12de951c490d0282a2ada157557e26cbe512589d2ac662539e28e07c9af71c16
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.07947499205250079
+0x1c218294ecc53cebf1a7fcaf5440e35f8f335e2392cba0d1fcf8226a3ddea3c2
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:12
+0.08421874157812584
+0x70d6011d3080ffea39c5622b11debe62baef4b6e9a12fe3c5017d0103ae995c2
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:13
+0.08909999109000089
+0xa482cab72018e7086a41edcf0bbf90b6fcd2c05cd81e39a48b6b91ddd470864e
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:13
+0.09411874058812593
+0x5014a1bec5384297d973998d37733f917517116db92c6c03e53cbb015173a38b
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:13
+0.5506874449312555
+0x057ebfd76c7b24a28d65b53a0d6df584b03a5ba3425dc2cc5da53d60d08e8600
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:13
+0.12711873728812625
+0x920db75cd7470713a7cc88ffc9b0b2f8233615326f4ba2d70d876f5711d0e897
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:13
+0.1330999866900013
+0xd04c323589b56c532c24df2849ce191deb55d9096f5c27ca99c95befce1616f1
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:13
+0.1392187360781264
+0x5016f183bcf3d28e7dc2f81420196423225019b89498579c160eaa15ff9f4262
+buyShares
+0x4e5f7e4a774bd30b9bdca7eb84ce3681a71676e1
+2023-08-10 21:13
+0.14547498545250145
+1,539 rows
+Search...
 
-/*
-EtherStore is a contract where you can deposit and withdraw ETH.
-This contract is vulnerable to re-entrancy attack.
-Let's see why.
 
-1. Deploy EtherStore
-2. Deposit 1 Ether each from Account 1 (Alice) and Account 2 (Bob) into EtherStore
-3. Deploy Attack with address of EtherStore
-4. Call Attack.attack sending 1 ether (using Account 3 (Eve)).
-   You will get 3 Ethers back (2 Ether stolen from Alice and Bob,
-   plus 1 Ether sent from this contract).
-
-What happened?
-Attack was able to call EtherStore.withdraw multiple times before
-EtherStore.withdraw finished executing.
-
-Here is how the functions were called
-- Attack.attack
-- EtherStore.deposit
-- EtherStore.withdraw
-- Attack fallback (receives 1 Ether)
-- EtherStore.withdraw
-- Attack.fallback (receives 1 Ether)
-- EtherStore.withdraw
-- Attack fallback (receives 1 Ether)
-*/
-
-contract EtherStore {
-    mapping(address => uint) public balances;
-
-    function deposit() public payable {
-        balances[msg.sender] += msg.value;
-    }
-
-    function withdraw() public {
-        uint bal = balances[msg.sender];
-        require(bal > 0);
-
-        (bool sent, ) = msg.sender.call{value: bal}("");
-        require(sent, "Failed to send Ether");
-
-        balances[msg.sender] = 0;
-    }
-
-    // Helper function to check the balance of this contract
-    function getBalance() public view returns (uint) {
-        return address(this).balance;
-    }
-}
